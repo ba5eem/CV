@@ -8,7 +8,7 @@ baseem@gmail.com | CV
 
 ## PROJECTS
 
-<b> Portfolio - [www.baseem.me](http://baseem.me/) | Jan. 2018</b>
+<b> Portfolio - [Baseem Portfolio](http://baseem.me/) | Jan. 2018</b>
 
 * Website built with ReactJs & deployed with Digital Ocean
 
