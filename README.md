@@ -8,6 +8,10 @@ baseem@gmail.com | CV
 
 ## PROJECTS
 
+<b> FACEMOTING - [IOT APP](https://github.com/ba5eem/atthackathon) | Mar. 2018</b>
+
+* Best IoT App Overall - 2nd Place - Submission for Honolulu AT&T Hackathon 2018
+
 <b> Portfolio - [Baseem Portfolio](http://baseem.me/) | Jan. 2018</b>
 
 * Website built with ReactJs & deployed with Digital Ocean
