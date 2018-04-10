@@ -6,6 +6,14 @@ The past 9 months I have been on a coding journey.  I am so hungry to learn new 
 
 baseem@gmail.com | CV
 
+## Applied Research Laboratory - University of Hawaii
+
+<b>Software App Developer | March 2018 -  Present</b>
+
+* AR/VR App Development [ARL](http://www.hawaii.edu/arl/)
+* <img src="https://img.shields.io/badge/VIROREACT--lightgrey.svg" alt=""> <img src="https://img.shields.io/badge/ARKIT--blue.svg" alt=""> <img src="https://img.shields.io/badge/ARCORE--green.svg" alt=""> <img src="https://img.shields.io/badge/UNITY--red.svg" alt=""> <img src="https://img.shields.io/badge/MAGICLEAP--ff69b4.svg" alt="">
+
+
 ## PROJECTS
 
 <b> FACEMOTING - [IOT APP](https://github.com/ba5eem/atthackathon) | Mar. 2018</b>
