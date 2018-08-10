@@ -27,7 +27,7 @@ baseem@gmail.com | CV
 
 <b> FACEMOTING - [IOT APP](https://github.com/ba5eem/atthackathon) | Mar. 2018</b>
 
-* Best IoT App Overall - 2nd Place - Submission for Honolulu AT&T Hackathon 2018
+* Best IoT App Overall - 2nd Place - for Honolulu AT&T Hackathon 2018
 
 <b> Portfolio - [Baseem Portfolio](http://baseem.me/) | Jan. 2018</b>
 
@@ -102,7 +102,7 @@ baseem@gmail.com | CV
 
 <b>GitHub Organizations | July 2017 - Present</b>
 
-* devleague, Hackbit
+* DevLeague, Hackbit
 
 <b>Hawaii Bicycle League | Jan 2017 - Present</b>
 
