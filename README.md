@@ -2,9 +2,18 @@
 
 ## SUMMARY
 
-The past 9 months I have been on a coding journey.  I am so hungry to learn new things and fuel my passion.  During the better half of 2017, I officially began the pursuit to move from a script kiddie to a full stack developer.  To make this happen I completed the full stack developer coding bootcamp at DevLeague here in Honolulu, Hawaii. I am passionate about React, NodeJs and Machine Learning. 
+Script Kiddie working with Augmented Reality and saving the world with embedded systems. Now working at two of the coolest places!
+
+⏰ 🚴 💻 👨‍🏫💻 🚴 🔁
 
 baseem@gmail.com | CV
+
+## DevLeague - Honolulu, HI
+
+<b>Javascript Teachers Assistant | June 2018 -  Present</b>
+
+* Javascript Engineer PT Program [DevLeague](https://www.devleague.com/)
+* <img src="https://img.shields.io/badge/TA-Javascript-blue.svg" alt=""> <img src="https://img.shields.io/badge/TA-NodeJS-brightgreen.svg" alt=""> <img src="https://img.shields.io/badge/TA-PostGreSQL-yellow.svg" alt="">
 
 ## Applied Research Laboratory - University of Hawaii
 
@@ -61,7 +70,7 @@ baseem@gmail.com | CV
 
 <b>StackOverFlow Contributor | 2017 - Present</b>
 
-* Support in AWS, IBM Watson, NodeJs, ReactJs, API, Javascript - [Profile](https://stackoverflow.com/users/9297261/baseem) 
+* Support in AWS, IBM Watson, NodeJs, ReactJs, API, Javascript - [Profile](https://stackoverflow.com/users/9297261/baseem)
 
 ## FORMAL EDUCATION
 
