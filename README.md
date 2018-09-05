@@ -17,7 +17,7 @@ baseem@gmail.com | CV
 
 ## Applied Research Laboratory - University of Hawaii
 
-<b>Software App Developer | March 2018 -  Present</b>
+<b>AR/VR Software Developer | March 2018 -  Present</b>
 
 * AR/VR App Development [ARL](http://www.hawaii.edu/arl/)
 * <img src="https://img.shields.io/badge/VIROREACT--lightgrey.svg" alt=""> <img src="https://img.shields.io/badge/ARKIT--blue.svg" alt=""> <img src="https://img.shields.io/badge/ARCORE--green.svg" alt=""> <img src="https://img.shields.io/badge/UNITY--red.svg" alt=""> <img src="https://img.shields.io/badge/MAGICLEAP--ff69b4.svg" alt="">
@@ -28,10 +28,6 @@ baseem@gmail.com | CV
 <b> FACEMOTING - [IOT APP](https://github.com/ba5eem/atthackathon) | Mar. 2018</b>
 
 * Best IoT App Overall - 2nd Place - for Honolulu AT&T Hackathon 2018
-
-<b> Portfolio - [Baseem Portfolio](http://baseem.me/) | Jan. 2018</b>
-
-* Website built with ReactJs & deployed with Digital Ocean
 
 <b> Expo Projects - [ART](https://expo.io/@baseem) | Feb. 2018</b>
 
