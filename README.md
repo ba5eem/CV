@@ -2,7 +2,7 @@
 
 ## SUMMARY
 
-Script Kiddie working with Augmented Reality and saving the world with embedded systems. Now working at two of the coolest places!
+Software dev working with Augmented Reality and saving the world with embedded systems. Now working at two of the coolest places!
 
 ⏰ 🚴 💻 👨‍🏫💻 🚴 🔁
 
@@ -10,7 +10,7 @@ baseem@gmail.com | CV
 
 ## DevLeague - Honolulu, HI
 
-<b>Javascript Teachers Assistant | June 2018 -  Present</b>
+<b>Javascript Instructor | June 2018 -  Present</b>
 
 * Javascript Engineer PT Program [DevLeague](https://www.devleague.com/)
 * <img src="https://img.shields.io/badge/TA-Javascript-blue.svg" alt=""> <img src="https://img.shields.io/badge/TA-NodeJS-brightgreen.svg" alt=""> <img src="https://img.shields.io/badge/TA-PostGreSQL-yellow.svg" alt="">
